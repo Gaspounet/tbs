@@ -1,4 +1,4 @@
-# tbs
+# Tabletop Simulator
 Tabletop Simulator related code
 
 This repository is for all online code or json data that I need access to from Tabletop Simulator Modding.
