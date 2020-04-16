@@ -63,21 +63,24 @@ def get_keyforge_card_infos():
             "id": 341,
             "number_of_cards": 370,
             "cards": [],
-            "houses": []
+            "houses": [],
+            "skip_pages": [12]
         },
         {
             "name": "Age of Ascencion",
             "id": 435,
             "number_of_cards": 370,
             "cards": [],
-            "houses": []
+            "houses": [],
+            "skip_pages": [17, 19, 20, 21, 22, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
         },
         {
             "name": "Worlds Collide",
             "id": 452,
             "number_of_cards": 405,
             "cards": [],
-            "houses": []
+            "houses": [],
+            "skip_pages": [16, 18, 21, 22, 23]
         }
     ]
     all_cards_list = []
@@ -85,6 +88,8 @@ def get_keyforge_card_infos():
     for expansion in expansions:
         page = 1
         while len(expansion["cards"]) < expansion["number_of_cards"]:
+            while page in expansion["skip_pages"]:
+                page += 1
             headers = {'User-Agent': 'KFTBS_mod/1.0.0'}
             print("Searching through deck list of expansion {}, page {}".format(
                 expansion["name"], page)
