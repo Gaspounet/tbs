@@ -693,7 +693,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "c68fa80b-08b2-4153-88c1-9e56aac487fe",
@@ -751,7 +751,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "63f67670-16fb-4381-a859-c47920a847a6",
@@ -2143,7 +2143,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "23a96d73-4eb2-4c45-9550-8207145eb587",
@@ -2230,7 +2230,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "98c0c7b0-59b4-48f2-8144-39d1d47bec7d",
@@ -5217,7 +5217,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "bdbb4933-b2f1-403b-986d-bbdec111b76b",
@@ -5304,7 +5304,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "e59dcfe3-ffff-4d57-a0dc-c958d726dab8",
@@ -5391,7 +5391,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "bda929e2-962a-438c-a210-47f21228dfbc",
@@ -6696,7 +6696,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "ce019a46-29ac-4e54-a12e-ec9ad8e0d200",
@@ -6725,7 +6725,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "22fdfc0f-5ea1-42bd-984a-8c9edd8b16b7",
@@ -6783,7 +6783,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "c39567bb-4695-4518-8b8d-8ac882894d1e",
@@ -6841,7 +6841,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "02c7533e-98ac-48a0-94e4-621555443c8d",
@@ -8320,7 +8320,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "9c13665d-e4da-45b4-b04d-27abfafe5c23",
@@ -8349,7 +8349,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "90dc2b61-521a-40c1-bf0a-14e4d1457977",
@@ -8465,7 +8465,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "eb91efae-9fbe-46e2-a6f4-f93d290703a9",
@@ -8668,7 +8668,7 @@
         "can_reap": true,
         "can_fight": true,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "dddb201b-03d0-4fa9-b627-c69f51994c13",
@@ -9886,7 +9886,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "cc7b8381-1418-45e5-b328-7c538fa73407",
@@ -9944,7 +9944,7 @@
         "can_reap": false,
         "can_fight": false,
         "can_action": false,
-        "can_omni": false
+        "can_omni": true
     },
     {
         "id": "8f7f0b00-868d-4447-967b-e8c9d880c91a",
